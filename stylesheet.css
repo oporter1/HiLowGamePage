@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(50, 237, 237);
+  color: black;
+  text-align: center;
+  margin: 0%;
+}
+
+#headTitle {
+    margin-top: 10%;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 100px;
+}
+
+#search {
+    font-family: 'Shadows Into Light', cursive;
+
+}
